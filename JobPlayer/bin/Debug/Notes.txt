@@ -1,0 +1,69 @@
+[toc]
+### 个人账号密码
+#### 统一身份认证
+http://newlogin.intra.cntaiping.com/login
+账号密码:szsm.tangpeng@waibao.cntaiping.com/Taiping88
+
+### 基础网站
+#### 127生产环境
+http://10.1.13.127:8080/xtest/login.jsp
+#### 128测试环境
+http://10.28.139.128:8080/xtest/index.jsp
+账号密码：admin/Tp123456
+#### 执行机管理平台
+https://10.1.96.171:8383/configurations.do
+账号密码：ftappdev1/Ftapp_Remote_1
+
+#### 邮箱
+http://mail.waibao.cntaiping.com/webmail/index.php?module=view&action=login
+#### GitLab
+https://gitlab.ft.cntaiping.com/users/sign_in
+
+### 共享盘
+#### //10.28.138.199
+账号密码：admin/whFsctest_a0min
+
+### 执行机管理
+#### 远程直连
+10.1.120.25
+账号密码:appuser/ITautot_1117
+
+### 数据库
+#### 127平台生产数据库
+10.1.13.129
+账号密码：sa/taiping@2017
+
+#### 128平台测试数据库
+10.28.137.122
+账号密码：sa/taiping@2017
+
+### 环境配置
+#### DLink服务
+10.1.96.23
+账号密码：appuser/ge1$V_1xXsDa
+
+#### 外网配置
+10.1.190.2:31151
+
+#### 执行机配置
+```
+Insert into [CloudTest].[dbo].[ParamInfo] values ('46','10.1.120.25','4','5','四部','无');
+
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '9', '1', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '14', '1', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '30', '0', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '20', '0', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '31', '0', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '32', '0', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '33', '0', '2020-11-10 22:12:04.000');
+INSERT INTO [CloudTest].[dbo].[AgentParamsInfo] ([AgentID], [ParamID], [ParamValue], [Timestamp]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '34', '1', '2020-11-10 22:12:04.000');
+
+INSERT INTO [CloudTest].[dbo].[AgentFlagInfo] ([RunnerID], [RunnerFlag], [RunnerFlagUpdatDate]) VALUES (N'3F-C4-0C-F4-A7-3B-5B-80-A5-91-FB-5A-21-FC-2A-04', '1', '2020-11-11 17:45:26.000');
+
+
+##表清除：TRUNCATE table TestRunApply
+
+```
+
+
+

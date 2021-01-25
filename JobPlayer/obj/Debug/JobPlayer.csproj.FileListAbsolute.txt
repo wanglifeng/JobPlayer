@@ -1,0 +1,9 @@
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\bin\Debug\JobPlayer.exe.config
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\bin\Debug\JobPlayer.exe
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\bin\Debug\JobPlayer.pdb
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.Properties.Resources.resources
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.csproj.GenerateResource.Cache
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.exe
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.pdb
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.JobPlayer.resources
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\JobPlayer\obj\Debug\JobPlayer.SearchBar.resources

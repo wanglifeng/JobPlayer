@@ -1,0 +1,13 @@
+D:\Project\寿险电销2020-8-6\寿险电销\CL.Data.Manage\bin\Debug\CL.Data.Manage.dll
+D:\Project\寿险电销2020-8-6\寿险电销\CL.Data.Manage\bin\Debug\CL.Data.Manage.pdb
+D:\Project\寿险电销2020-8-6\寿险电销\CL.Data.Manage\obj\Debug\CL.Data.Manage.dll
+D:\Project\寿险电销2020-8-6\寿险电销\CL.Data.Manage\obj\Debug\CL.Data.Manage.pdb
+D:\Project\寿险电销2020-8-6\寿险电销\CL.Data.Manage\obj\Debug\CL.Data.Manage.csprojResolveAssemblyReference.cache
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.dll
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.pdb
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.dll
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.pdb
+E:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.dll
+E:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.pdb
+E:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.dll
+E:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.pdb

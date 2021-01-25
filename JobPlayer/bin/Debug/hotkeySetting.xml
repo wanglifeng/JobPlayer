@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Hotkey>
+  <item order="100" hotkey1="Ctrl" hotkey2="B" action="/sys:显示搜索" />
+  <item order="101" hotkey1="Ctrl" hotkey2="Home" action="/sys:显示主界面" />
+  <item order="102" hotkey1="Ctrl" hotkey2="NumPad4" action="/process:打开记事本" />
+  <item order="103" hotkey1="Ctrl" hotkey2="NumPad1" action="/process:访问199" />
+  <item order="104" hotkey1="Ctrl" hotkey2="NumPad2" action="/process:访问53" />
+  <item order="105" hotkey1="Ctrl" hotkey2="NumPad3" action="/process:访问10.1.120.30" />
+</Hotkey>

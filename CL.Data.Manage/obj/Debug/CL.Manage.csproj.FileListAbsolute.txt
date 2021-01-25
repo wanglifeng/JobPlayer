@@ -1,0 +1,4 @@
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.dll
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\obj\Debug\CL.Data.Manage.pdb
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.dll
+D:\Project\webcomponentliabrary\Web组件库\CL.Data.Manage\bin\Debug\CL.Data.Manage.pdb

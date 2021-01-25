@@ -1,0 +1,8 @@
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.CnBlogs.csprojResolveAssemblyReference.cache
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.CnBlogs.csproj.ResolveComReference.cache
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.SXDX.View.WebUIForm.resources
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.CnBlogs.csproj.GenerateResource.Cache
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\LocalTester\bin\Debug\CL.Web.CnBlogs.dll
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\LocalTester\bin\Debug\CL.Web.CnBlogs.pdb
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.CnBlogs.dll
+C:\Users\szsm.tangpeng\Desktop\JobPlayer\CL.Web.CnBlogs\obj\Debug\CL.Web.CnBlogs.pdb

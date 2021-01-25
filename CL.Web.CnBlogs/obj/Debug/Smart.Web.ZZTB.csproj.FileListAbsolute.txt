@@ -1,0 +1,96 @@
+D:\C#Project\自助投保1\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\C#Project\自助投保1\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\C#Project\自助投保1\Smart.Web.TP\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\C#Project\自助投保1\Smart.Web.TP\obj\Debug\Smart.Web.ZZTB.dll
+D:\C#Project\自助投保1\Smart.Web.TP\obj\Debug\Smart.Web.ZZTB.pdb
+D:\C#Project\自助投保1\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\C#Project\自助投保1\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\C#Project\自助投保1\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+C:\Users\tp\Desktop\自助投保\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+C:\Users\tp\Desktop\自助投保\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+C:\Users\tp\Desktop\自助投保\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+C:\Users\tp\Desktop\自助投保\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+C:\Users\tp\Desktop\自助投保\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\Solution Explorer\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\Solution Explorer\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+F:\C#project\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+F:\C#project\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+F:\C#project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+F:\C#project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+F:\C#project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+F:\C#project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\C#Project\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\C#Project\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\C#Project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\C#Project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\C#Project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\C#Project\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+F:\C#project\自助投保First2\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+F:\C#project\自助投保First2\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+F:\C#project\自助投保First2\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+F:\C#project\自助投保First2\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+F:\C#project\自助投保First2\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+F:\C#project\自助投保First2\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+E:\Solution Explorer\自助投保SFirst\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+E:\Solution Explorer\自助投保SFirst\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+E:\Solution Explorer\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+E:\Solution Explorer\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+E:\Solution Explorer\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+E:\Solution Explorer\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\源码\自助投保SFirst\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\源码\自助投保SFirst\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\源码\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\源码\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\源码\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\源码\自助投保SFirst\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+E:\Solution Explorer\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+E:\Solution Explorer\自助投保First\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+E:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+E:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+E:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+E:\Solution Explorer\自助投保First\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\c#project\太平金服网销系统\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\c#project\太平金服网销系统\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\c#project\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\c#project\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\c#project\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\c#project\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\金福测试\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\金福测试\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\金福测试\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\金福测试\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180905\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+E:\神州数码工作夹\神州数码\太平金福网销客服系统版本更新\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\网销客服\环境配置\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\网销客服\环境配置\太平金服网销系统20180901\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\网销客服\环境配置\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\网销客服\环境配置\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\网销客服\环境配置\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\网销客服\环境配置\太平金服网销系统20180901\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统20180928\LocalTester\bin\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统20180928\LocalTester\bin\Debug\Smart.Web.ZZTB.pdb
+D:\金福测试\太平金服网销系统20180928\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csprojResolveAssemblyReference.cache
+D:\金福测试\太平金服网销系统20180928\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.csproj.ResolveComReference.cache
+D:\金福测试\太平金服网销系统20180928\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.dll
+D:\金福测试\太平金服网销系统20180928\Smart.Web.ZZTB\obj\Debug\Smart.Web.ZZTB.pdb
